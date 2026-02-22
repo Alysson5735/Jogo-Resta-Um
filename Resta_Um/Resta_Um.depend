@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1764205620 source:d:\ufs\programação 2\trabalhos\resta_um\back.cpp
+	"dec_back.h"
+	<algorithm>
+	<fstream>
+	<iomanip>
+
+1764205622 d:\ufs\programação 2\trabalhos\resta_um\dec_back.h
+	"dec_front.h"
+	"raylib.h"
+	<iostream>
+	<math.h>
+
+1764205622 d:\ufs\programação 2\trabalhos\resta_um\dec_front.h
+	"raylib.h"
+	<iostream>
+	<math.h>
+	"dec_back.h"
+
+1764205620 source:d:\ufs\programação 2\trabalhos\resta_um\front.cpp
+	"dec_back.h"
+	"dec_front.h"
+
+1764205620 source:d:\ufs\programação 2\trabalhos\resta_um\main.cpp
+	"dec_back.h"
+	"dec_front.h"
+
+1764205620 source:d:\ufs\2º período\programação 2\trabalhos\projeto 1\resta_um\front.cpp
+	"dec_back.h"
+	"dec_front.h"
+
+1764205622 d:\ufs\2º período\programação 2\trabalhos\projeto 1\resta_um\dec_back.h
+	"dec_front.h"
+	"raylib.h"
+	<iostream>
+	<math.h>
+
+1764205622 d:\ufs\2º período\programação 2\trabalhos\projeto 1\resta_um\dec_front.h
+	"raylib.h"
+	<iostream>
+	<math.h>
+	"dec_back.h"
+
+1764205620 source:d:\ufs\2º período\programação 2\trabalhos\projeto 1\resta_um\main.cpp
+	"dec_back.h"
+	"dec_front.h"
+
+1769899228 source:d:\ufs\2º período\programação 2\trabalhos\projeto 1\resta_um\back.cpp
+	"dec_back.h"
+	<algorithm>
+	<fstream>
+	<iomanip>
+
